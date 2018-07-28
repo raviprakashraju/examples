@@ -1,2 +1,2 @@
 # examples
-This repository is to create examples
+This repository is to learn and create examples
